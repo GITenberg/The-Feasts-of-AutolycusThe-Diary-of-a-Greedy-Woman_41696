@@ -1,0 +1,35 @@
+_repo: The-Feasts-of-AutolycusThe-Diary-of-a-Greedy-Woman_41696
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41696-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pennell, Elizabeth Robins
+    alias: Pennell, E. R. (Elizabeth Robins)
+    birthdate: 1855
+    deathdate: 1936
+    gutenberg_agent_id: '25552'
+    url: http://www.gutenberg.org/2009/agents/25552
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins_Pennell
+description: ''
+gutenberg_issued: '2012-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41696'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Gastronomy'
+tableOfContents: The virtue of gluttony -- A perfect breakfast -- Two breakfasts --
+  The subtle sandwich -- A perfect dinner -- An autumn dinner -- A midsummer dinner
+  -- Two suppers -- On soup -- The simple sole -- Bouillabaisse -- The most excellent
+  oyster -- The partridge -- The archangelic bird -- Spring chicken -- The magnificent
+  mushroom -- The incomparable onion -- The triumphant tomato -- A dish of sunshine
+  -- On salads -- The salads of spain -- The stirring savoury -- Indispensable cheese
+  -- A study in green and red -- A message from the south -- Enchanting coffee.
+title: 'The Feasts of Autolycus: The Diary of a Greedy Woman'
+url: http://www.gutenberg.org/ebooks/41696
